@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mod_reactor_controller" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/multidradiometry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/radbox" vcs="Git" />
+  </component>
+</project>
